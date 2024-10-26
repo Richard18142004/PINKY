@@ -7,7 +7,7 @@ trigger:
 
 - main
 
-pool: PINKY
+pool: PROJECT
 
 steps:
 - script: echo "Stage 1 - Setting up Java version."
